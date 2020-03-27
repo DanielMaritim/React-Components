@@ -8,6 +8,7 @@ Basically a component is a function or class which accepts input and returns an 
 
 Below is an example of a React Component
 
+  ````
   function nameComponent (props) {
            return React.createElement(
                'h1',
@@ -15,3 +16,5 @@ Below is an example of a React Component
                props.name,
            )
        }
+       
+   ````    
