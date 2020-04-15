@@ -9,6 +9,7 @@ Basically a component is a function or class which accepts input and returns an 
 Let's see React Componets like this...! React components let you break up the user interface into separate pieces that can then be reused and handled independently.
 
 A React component can be either “stateful” or "stateless."
+“Stateful” components are of the class type, and a  “stateless” component is of the function type.
 
 Below is an example of a React Component
 
