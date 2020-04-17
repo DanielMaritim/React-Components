@@ -11,6 +11,8 @@ Let's see React Componets like this...! React components let you break up the us
 A React component can be either “stateful” or "stateless."
 “Stateful” components are of the class type, and a  “stateless” component is of the function type.
 
+So what is the difference between the two?
+
 Below is an example of a React Component
 
   ````
